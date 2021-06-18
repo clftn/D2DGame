@@ -1,0 +1,61 @@
+﻿  CBoss.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\CBoss.cpp(34,10): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBoss.cpp(53,37): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBoss.cpp(54,37): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBoss.cpp(55,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBoss.cpp(56,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CBullet_Mgr.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\CBullet_Mgr.cpp(37,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBullet_Mgr.cpp(40,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBullet_Mgr.cpp(69,16): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+D:\WinProject\WinOpenGame\WinOpenGame\CBullet_Mgr.cpp(141,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CBullet_Mgr.cpp(142,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CHero.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(32,27): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(71,51): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(78,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(80,14): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(120,29): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(155,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CHero.cpp(166,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMain.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\CMain.cpp(182,9): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMonster.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(12,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(21,12): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(24,28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(25,28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(54,37): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(55,37): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(56,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(57,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(115,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonster.cpp(116,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMonsters_Mgr.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(19,15): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(121,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1005,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1006,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1010,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1011,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1015,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1016,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1020,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1021,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1025,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1026,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1030,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1031,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1035,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1036,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1040,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1041,34): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1045,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1046,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1050,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\CMonsters_Mgr.cpp(1051,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PlayUI.cpp
+D:\WinProject\WinOpenGame\WinOpenGame\PlayUI.cpp(75,2): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WinProject\WinOpenGame\WinOpenGame\PlayUI.cpp(89,2): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  WinOpenGame.vcxproj -> D:\WinProject\WinOpenGame\x64\Debug\WinOpenGame.exe

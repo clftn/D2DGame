@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\MoveComponent">
+      <UniqueIdentifier>{04c5ce3d-9df8-4cce-a250-91ce7802ad46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Monsters">
+      <UniqueIdentifier>{04ab6372-876c-4f6e-b661-465d1a1169c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Bullets">
+      <UniqueIdentifier>{00afcb39-0883-475a-a6fb-1bdf95db65a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Bosses">
+      <UniqueIdentifier>{5beccd3e-a9cf-431c-8082-c7c277550676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\UIs">
+      <UniqueIdentifier>{e8caee7d-6383-4cf9-973d-a2fa877b64d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WinOpenGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CMain.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackGround.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CHero.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalValue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CInputPlayer.h">
+      <Filter>소스 파일\MoveComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsters_Mgr.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet.h">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet_Mgr.h">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster1.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster2.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster3.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster4.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster5.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster6.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster7.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster8.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster9.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster10.h">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoss.h">
+      <Filter>소스 파일\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIMgr.h">
+      <Filter>소스 파일\UIs</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleUI.h">
+      <Filter>소스 파일\UIs</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayUI.h">
+      <Filter>소스 파일\UIs</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverUI.h">
+      <Filter>소스 파일\UIs</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClearUI.h">
+      <Filter>소스 파일\UIs</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinOpenGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackGround.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CHero.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalValue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CInputPlayer.cpp">
+      <Filter>소스 파일\MoveComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsters_Mgr.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet_Mgr.cpp">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet.cpp">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster1.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster2.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster3.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster4.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster5.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster6.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster7.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster8.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster9.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster10.cpp">
+      <Filter>소스 파일\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoss.cpp">
+      <Filter>소스 파일\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIMgr.cpp">
+      <Filter>소스 파일\UIs</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleUI.cpp">
+      <Filter>소스 파일\UIs</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayUI.cpp">
+      <Filter>소스 파일\UIs</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverUI.cpp">
+      <Filter>소스 파일\UIs</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClearUI.cpp">
+      <Filter>소스 파일\UIs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WinOpenGame.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="WinOpenGame.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
